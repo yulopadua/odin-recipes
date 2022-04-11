@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipe {
+    color: fuchsia;
+    font-size: large;
+    font-weight: bold;
+}
+
+.recipe-one {
+    color: purple;
+}
+
+.recipe-two {
+    color: brown;
+}
+
+.recipe-three {
+    color: goldenrod;
+}
